@@ -1,5 +1,6 @@
 title: Controllable Documentation
 description: Documentation Website for Controllable Configuration Stack.
 theme: just-the-docs
-
 url: https://docs.controllable.in
+logo: https://controllable.in/assets/img/logo.png
+footer_content: "Copyright &copy; 2022 SuperStack. Controllable is made with &#x2764; at <a href="https://superstack.one">SuperStack</a>"
