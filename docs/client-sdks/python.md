@@ -15,7 +15,7 @@ nav_order: 1
 pip install controllable
 ```
 
-### Read Property Example
+### Read Property Value Example
 
 ```python
 from controllable import *
