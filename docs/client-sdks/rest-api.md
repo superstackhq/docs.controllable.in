@@ -105,6 +105,8 @@ Response
 }
 ```
 
+-------------
+
 ### Create Property Value
 
 Request
@@ -178,6 +180,8 @@ Response
     ]
 }
 ```
+
+--------------
 
 ### Update Property Value
 
@@ -253,6 +257,8 @@ Response
     ]
 }
 ```
+
+----------
 
 ### Delete Property Value
 
