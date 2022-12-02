@@ -19,7 +19,7 @@ Controllable Server is available as a [Docker Image](https://hub.docker.com/r/su
 
 - Ensure Docker is set and running on your host machine. Please refer to [Docker installation instructions](https://docs.docker.com/get-docker/) in case you need to setup Docker.
 
-- Run the following command from your terminal in order to spin up a Controllable Server container. Remember to replace the environment variables with the correct values.
+- Run the following command from your terminal in order to spin up a Controllable Server container. Remember to replace the environment variables with the correct values. Refer to [Creating A New Instance](https://docs.controllable.in/docs/getting-started/creating-a-new-instance.html) if you don't have a License Key and Instance ID yet.
 
 ```sh
 docker run -i -t \
