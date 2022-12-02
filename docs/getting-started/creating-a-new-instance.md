@@ -2,7 +2,7 @@
 layout: default
 title: Registering A Controllable Instance
 parent: Getting Started
-nav_order: 1
+nav_order: 2
 ---
 
 # Registering a Controllable Instance
