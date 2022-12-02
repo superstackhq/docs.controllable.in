@@ -17,7 +17,7 @@ nav_order: 3
 
 Controllable Server is available as a [Docker Image](https://hub.docker.com/r/superstackhq/controllable) for use. Follow the below steps to quickly spin up a Controllable Server Container.
 
-- Ensure Docker is set and running on your host machine. Please refer to [Docker installation instructions](https://docs.docker.com/get-docker/) in case you need to setup Docker.
+- Ensure Docker is setup and running on your host machine. Please refer to [Docker installation instructions](https://docs.docker.com/get-docker/) in case you need to setup Docker.
 
 - Run the following command from your terminal in order to spin up a Controllable Server container. Remember to replace the environment variables with the correct values. Refer to [Creating A New Instance](https://docs.controllable.in/docs/getting-started/creating-a-new-instance.html) if you don't have a License Key and Instance ID yet.
 
