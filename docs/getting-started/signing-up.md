@@ -21,4 +21,8 @@ nav_order: 1
 
 - Fill in all the details on the screen and click on "Login To Your Account"
 
-![SuperStack Sign Up Page](/assets/images/superstack-login.png)
+![SuperStack Login Page](/assets/images/superstack-login.png)
+
+- Once you successfully login, you should land on the home page as shown below
+
+![SuperStack Home Page](/assets/images/superstack-blank-home.png)
