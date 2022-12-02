@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Signing Up For A SuperStack Account
+parent: Getting Started
+nav_order: 1
 ---
 
 # Signing up for a new SuperStack Account
