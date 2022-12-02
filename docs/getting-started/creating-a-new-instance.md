@@ -9,7 +9,7 @@ nav_order: 2
 
 On this page, we will see how to register a new Controllable instance and how to get the license key and instance ID for use during setup and installation of the Controllable Server.
 
-- Once you login and land on SuperStack home page, click on the "New Instance" button on the home page.
+- Once you login and land on SuperStack home page, click on the "New Instance" button on the home page. If you haven't signed up / logged in yet, please read (How To Sign Up)[https://docs.controllable.in/docs/getting-started/signing-up.html]
 
 ![Add Instance Button](/assets/images/superstack-add-instance-button.png)
 
