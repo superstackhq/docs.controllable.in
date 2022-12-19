@@ -2,7 +2,7 @@
 layout: default
 title: REST API
 parent: Client SDKs
-nav_order: 2
+nav_order: 4
 ---
 
 # REST API
