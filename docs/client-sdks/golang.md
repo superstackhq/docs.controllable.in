@@ -9,8 +9,6 @@ nav_order: 3
 
 ### Add Dependency
 
-- Install the Python Client SDK using `pip` command
-
 ```sh
 go get github.com/superstackhq/controllable-go-sdk
 ```
